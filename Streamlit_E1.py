@@ -3,6 +3,7 @@ from Lineas_influencia import *
 
 
 with st.sidebar:
+    st.image("Image.jpg")
     st.header('Curso: Python aplicado a la Ingeniería Estructural')
     st.subheader('Creado por: Niccolas Villegas\n')
     for _ in range(6):
